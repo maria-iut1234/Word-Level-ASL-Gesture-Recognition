@@ -1,0 +1,10 @@
+dataset/videos/
+dataset/landmarks_test.npz
+dataset/landmarks_train.npz
+dataset/landmarks_val.npz
+dataset/landmarks/
+dataset/new_preprocessed-data/
+dataset/new_preprocessed-data/test/
+dataset/new_preprocessed-data/train/
+dataset/new_preprocessed-data/val/
+dataset/preprocessed-data/
