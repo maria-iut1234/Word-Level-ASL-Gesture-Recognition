@@ -1,5 +1,5 @@
 /dataset
 cc.en.300.bin
 cc.en.300.bin.gz
-/model-checkpoints
 /model
+/model_checkpoints
