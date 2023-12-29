@@ -24,7 +24,7 @@ The project is organized into the following main directories:
 
 - `.gitignore`: File to specify files and directories excluded from version control.
 
-/ML-Project
+`/ML-Project
 ├── dataset/
 │   ├── videos/
 │   ├── WLASL_v0.3.json
@@ -41,7 +41,7 @@ The project is organized into the following main directories:
 ├── landmarks/
 │
 ├── CSE_4554_Project.ipynb
-└── .gitignore
+└── .gitignore`
 
 ## Project Structure
 
