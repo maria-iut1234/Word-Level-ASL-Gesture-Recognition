@@ -73,7 +73,7 @@ The project is organized into several key components:
    - Visualizing confusion matrices for model interpretation.
    - Generating ROC curves for multi-class classification.
 
-7. **Model Deployment:**
+7. **Saving Trained Model:**
    - Saving the trained model for future use.
 
 
