@@ -25,6 +25,25 @@ The project is organized into the following main directories:
 
 - `.gitignore`: File to specify files and directories excluded from version control.
 
+/ML-Project
+├── dataset/
+│   ├── videos/
+│   ├── WLASL_v0.3.json
+│   ├── new_preprocessed-data/
+│   ├── └── train/
+│   ├── └── validation/
+│   └── └── test/
+│   ├── missing.txt
+│
+├── model_checkpoints/
+│
+├── model/
+│
+├── landmarks/
+│
+├── CSE_4554_Project.ipynb
+└── .gitignore
+
 ## Project Structure
 
 The project is organized into several key components:
@@ -75,8 +94,26 @@ The project is organized into several key components:
    - During this step, the model learns patterns and relationships in the data.
 
 ## 5. Model Evaluation:
-   - The trained model will be evaluated to assess its performance.
-   - Evaluation metrics, such as accuracy or loss, will be displayed to gauge the model's effectiveness.
+
+- The trained model will be evaluated to assess its performance.
+
+### Evaluation Metrics:
+
+- Standard evaluation metrics, such as accuracy and loss, will be plotted to gauge the overall effectiveness of the model.
+
+### Confusion Matrix:
+
+- A confusion matrix will be generated to provide a detailed breakdown of the model's performance across different classes. This matrix is valuable for understanding the distribution of correct and incorrect predictions.
+
+### ROC Curve and AUC:
+
+- The Receiver Operating Characteristic (ROC) curve and Area Under the Curve (AUC) will be computed. These metrics are especially useful for binary and multiclass classification tasks, offering insights into the model's ability to discriminate between classes.
+
+- The ROC curve illustrates the trade-off between true positive rate and false positive rate across various thresholds.
+
+- The AUC represents the area under the ROC curve, with a higher AUC indicating better model discrimination.
+
+- These metrics provide a comprehensive view of the model's discriminatory power and can be particularly insightful in scenarios where a balanced assessment of true positives and false positives is crucial.
 
 ## 6. Model Saving:
    - After successful training and evaluation, the notebook will save the trained model.
