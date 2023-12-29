@@ -1,5 +1,4 @@
-# CSE4554-Project
-# Word-Level American Sign Language (ASL) Recognition Project
+# CSE4554-Project: Word-Level American Sign Language (ASL) Recognition Project
 
 ## Overview
 
@@ -141,7 +140,11 @@ The WLASL dataset used in this project can be found [here](https://www.kaggle.co
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
+## Contributors:
 
-- FastText: [FastText Pre-trained Models](https://fasttext.cc/docs/en/crawl-vectors.html)
+- **Shanta Maria**
+  - *GitHub:* [NafisaMaliyat-iut](https://github.com/NafisaMaliyat-iut)
+
+- **Nafisa Maliyat**
+  - *GitHub:* [maria-iut1234](https://github.com/maria-iut1234)
 
