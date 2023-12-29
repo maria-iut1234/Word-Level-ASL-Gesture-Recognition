@@ -21,8 +21,7 @@ The project is organized into the following main directories:
 
 - **landmarks:** Directory for storing processed landmarks.
 
-- **notebooks:** 
-  - `CSE 4554 Project.ipynb`: Notebook with the project implementation.
+- `CSE 4554 Project.ipynb`: Notebook with the project implementation.
 
 - `.gitignore`: File to specify files and directories excluded from version control.
 
@@ -32,7 +31,9 @@ The project is organized into several key components:
 
 1. **Data Preprocessing:**
    - Extracting landmarks from ASL videos.
-   - Handling missing videos and creating a processed dataset.
+
+2. **Folder Structure Setup:**
+   - Set up the folder structure as outlined above and download the dataset with
 
 2. **Data Augmentation:**
    - Applying various data augmentation techniques to enhance the model's robustness.
@@ -55,23 +56,34 @@ The project is organized into several key components:
 7. **Model Deployment:**
    - Saving the trained model for future use.
 
-## Usage
 
-1. **Environment Setup:**
-   - Ensure you have Python environment set up
-   - Run the notebook 
+# Usage Instructions
 
-2. **Data Processing:**
-   - Run scripts to preprocess, augment, and save landmarks.
+## 1. Environment Setup:
+   - Ensure you have a Python 3.x environment set up on your machine.
+   - Make sure to download the dataset and setup the folder structure provided above.
 
-3. **Model Training:**
-   - Train the ASL recognition model using the provided code.
+## 2. Running the Notebook:
+   - Execute the provided notebook.
+   - The notebook will automatically install the required dependencies and proceed with the following steps.
 
-4. **Model Evaluation:**
-   - Evaluate the model performance using confusion matrices and ROC curves.
+## 3. Data Processing:
+   - The notebook includes code for processing the data. This step involves preparing and organizing the dataset for training.
 
-5. **Model Deployment:**
-   - Save the trained model for future use.
+## 4. Model Training:
+   - The notebook will train the machine learning model using the processed data.
+   - During this step, the model learns patterns and relationships in the data.
+
+## 5. Model Evaluation:
+   - The trained model will be evaluated to assess its performance.
+   - Evaluation metrics, such as accuracy or loss, will be displayed to gauge the model's effectiveness.
+
+## 6. Model Saving:
+   - After successful training and evaluation, the notebook will save the trained model.
+   - This saved model can be later used for making predictions on new data.
+
+
+
 
 ## Dependencies
 
