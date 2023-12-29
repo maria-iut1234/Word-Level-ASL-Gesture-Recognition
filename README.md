@@ -1,5 +1,4 @@
-# CSE4554-Project
-# Word-Level American Sign Language (ASL) Recognition Project
+# CSE4554-Project: Word-Level American Sign Language (ASL) Recognition Project
 
 ## Overview
 
@@ -25,15 +24,16 @@ The project is organized into the following main directories:
 
 - `.gitignore`: File to specify files and directories excluded from version control.
 
+```plaintext
 /ML-Project
 ├── dataset/
-│   ├── videos/
-│   ├── WLASL_v0.3.json
-│   ├── new_preprocessed-data/
-│   ├── └── train/
-│   ├── └── validation/
-│   └── └── test/
-│   ├── missing.txt
+│ ├── videos/
+│ ├── WLASL_v0.3.json
+│ ├── new_preprocessed-data/
+│ │ ├── train/
+│ │ ├── validation/
+│ │ └── test/
+│ ├── missing.txt
 │
 ├── model_checkpoints/
 │
@@ -43,6 +43,7 @@ The project is organized into the following main directories:
 │
 ├── CSE_4554_Project.ipynb
 └── .gitignore
+```
 
 ## Project Structure
 
@@ -141,7 +142,11 @@ The WLASL dataset used in this project can be found [here](https://www.kaggle.co
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
+## Contributors:
 
-- FastText: [FastText Pre-trained Models](https://fasttext.cc/docs/en/crawl-vectors.html)
+- **Shanta Maria**
+  - *GitHub:* [NafisaMaliyat-iut](https://github.com/NafisaMaliyat-iut)
+
+- **Nafisa Maliyat**
+  - *GitHub:* [maria-iut1234](https://github.com/maria-iut1234)
 
