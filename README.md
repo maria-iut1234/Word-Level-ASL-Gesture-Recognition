@@ -24,15 +24,16 @@ The project is organized into the following main directories:
 
 - `.gitignore`: File to specify files and directories excluded from version control.
 
-`/ML-Project
+```plaintext
+/ML-Project
 ├── dataset/
-│   ├── videos/
-│   ├── WLASL_v0.3.json
-│   ├── new_preprocessed-data/
-│   ├── └── train/
-│   ├── └── validation/
-│   └── └── test/
-│   ├── missing.txt
+│ ├── videos/
+│ ├── WLASL_v0.3.json
+│ ├── new_preprocessed-data/
+│ │ ├── train/
+│ │ ├── validation/
+│ │ └── test/
+│ ├── missing.txt
 │
 ├── model_checkpoints/
 │
@@ -41,7 +42,8 @@ The project is organized into the following main directories:
 ├── landmarks/
 │
 ├── CSE_4554_Project.ipynb
-└── .gitignore`
+└── .gitignore
+```
 
 ## Project Structure
 
