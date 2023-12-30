@@ -28,6 +28,7 @@ The project is organized into the following main directories:
 /ML-Project
 ├── dataset/
 │ ├── videos/
+| |── model/
 │ ├── WLASL_v0.3.json
 │ ├── new_preprocessed-data/
 │ │ ├── train/
@@ -36,8 +37,6 @@ The project is organized into the following main directories:
 │ ├── missing.txt
 │
 ├── model_checkpoints/
-│
-├── model/
 │
 ├── landmarks/
 │
@@ -53,7 +52,7 @@ The project is organized into several key components:
    - Extracting landmarks from ASL videos.
 
 2. **Folder Structure Setup:**
-   - Set up the folder structure as outlined above and download the dataset with
+   - Set up the folder structure as outlined above and download the dataset from the link provided below.
 
 2. **Data Augmentation:**
    - Applying various data augmentation techniques to enhance the model's robustness.
@@ -73,7 +72,7 @@ The project is organized into several key components:
    - Visualizing confusion matrices for model interpretation.
    - Generating ROC curves for multi-class classification.
 
-7. **Model Deployment:**
+7. **Saving Trained Model:**
    - Saving the trained model for future use.
 
 
@@ -136,7 +135,7 @@ The project is organized into several key components:
 
 ## Dataset
 
-The WLASL dataset used in this project can be found [here](https://www.kaggle.com/datasets/risangbaskoro/WLASL-Processed).
+The WLASL dataset used in this project can be found [here](https://www.kaggle.com/datasets/sttaseen/wlasl2000-resized).
 
 ## License
 
