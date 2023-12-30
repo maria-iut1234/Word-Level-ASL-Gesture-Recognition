@@ -135,7 +135,7 @@ The project is organized into several key components:
 
 ## Dataset
 
-The WLASL dataset used in this project can be found [here](https://www.kaggle.com/datasets/risangbaskoro/WLASL-Processed).
+The WLASL dataset used in this project can be found [here](https://www.kaggle.com/datasets/sttaseen/wlasl2000-resized).
 
 ## License
 
