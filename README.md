@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on developing a model for American Sign Language (ASL) recognition using LSTM layers and  a cosine similarity loss function. The dataset consists of ASL gestures captured in videos, and the goal is to accurately predict the corresponding sign language word or gesture. 
+This project focuses on developing a model for American Sign Language (ASL) recognition using LSTM layers and  a cosine similarity loss function. The dataset consists of ASL gestures captured in videos, and the goal is to accurately predict the corresponding English word or gesture. 
 
 ## Folder Structure
 
