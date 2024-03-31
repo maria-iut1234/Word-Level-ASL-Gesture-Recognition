@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on developing a model for American Sign Language (ASL) recognition using LSTM layers and  a cosine similarity loss function. The dataset consists of ASL gestures captured in videos, and the goal is to accurately predict the corresponding English word or gesture. 
+This project focuses on developing a model for American Sign Language (ASL) recognition using LSTM layers and  a cosine similarity loss function. The WLASL-2000 Resized dataset consists of ASL gestures captured in videos, and the goal is to accurately predict the corresponding English word or gesture. 
 
 ## Folder Structure
 
@@ -114,22 +114,19 @@ The project is organized into several key components:
    - This saved model can be later used for making predictions on new data.
 
 
-
-
 ## Dependencies
-
-- Python 3.x
-- TensorFlow
-- NumPy
-- OpenCV
-- Matplotlib
-- Scikit-learn
-- Seaborn
-- FastText
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+- ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+- ![FastText](https://img.shields.io/badge/FastText-%23ffffff.svg?style=for-the-badge&logo=FastText&logoColor=white)
 
 ## Dataset
 
-The WLASL dataset used in this project can be found [here](https://www.kaggle.com/datasets/sttaseen/wlasl2000-resized).
+The WLASL-2000 Resized dataset used in this project can be found [here](https://www.kaggle.com/datasets/sttaseen/wlasl2000-resized).
 
 ## License
 
@@ -143,3 +140,7 @@ This project is licensed under the [MIT License](LICENSE).
 - **Nafisa Maliyat**
   - *GitHub:* [maria-iut1234](https://github.com/maria-iut1234)
 
+
+## Acknowledgments
+
+* [Img Shields](https://shields.io)
