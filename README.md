@@ -121,8 +121,8 @@ The project is organized into several key components:
 - ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- ![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
-- ![FastText](https://img.shields.io/badge/FastText-%23ffffff.svg?style=for-the-badge&logo=FastText&logoColor=white)
+- ![Seaborn](https://img.shields.io/badge/Seaborn-%4596C2.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+- ![FastText](https://img.shields.io/badge/FastText-%4596C2.svg?style=for-the-badge&logo=FastText&logoColor=white)
 
 ## Dataset
 
