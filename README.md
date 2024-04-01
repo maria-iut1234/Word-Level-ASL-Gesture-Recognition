@@ -135,10 +135,10 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contributors:
 
 - **Shanta Maria**
-  - *GitHub:* [NafisaMaliyat-iut](https://github.com/NafisaMaliyat-iut)
+  - *GitHub:* [maria-iut1234](https://github.com/maria-iut1234)
 
 - **Nafisa Maliyat**
-  - *GitHub:* [maria-iut1234](https://github.com/maria-iut1234)
+  - *GitHub:* [NafisaMaliyat-iut](https://github.com/NafisaMaliyat-iut)
 
 
 ## Acknowledgments
